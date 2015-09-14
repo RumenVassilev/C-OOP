@@ -1,0 +1,5 @@
+C:\Users\Rumen Vasilev\Desktop\OOP\Demos\05\Structures\obj\x86\Debug\3. Structures.csprojResolveAssemblyReference.cache
+C:\Users\Rumen Vasilev\Desktop\OOP\Demos\05\Structures\bin\Debug\Structures.exe
+C:\Users\Rumen Vasilev\Desktop\OOP\Demos\05\Structures\bin\Debug\Structures.pdb
+C:\Users\Rumen Vasilev\Desktop\OOP\Demos\05\Structures\obj\x86\Debug\Structures.exe
+C:\Users\Rumen Vasilev\Desktop\OOP\Demos\05\Structures\obj\x86\Debug\Structures.pdb
